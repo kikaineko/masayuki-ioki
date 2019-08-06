@@ -19,7 +19,7 @@ Masayuki Ioki (伊尾木 将之) is a
 - Cookpad Inc. (2014 - Present)
   - Belongs to Research and Development
   - Software engineer (Ruby, Python, Golang ...)
-  - Product owner of `Cooking School`
+  - Product owner of `the Cooking School Service`
 - Officer of the Japan Society of Home Economics Division of Food Culture (2015 - Present) ([link](http://www.js-foodculture.org/))
 - IBM Japan (2003 - 2014)
   - SE, Project manager
