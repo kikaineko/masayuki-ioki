@@ -12,11 +12,15 @@ Masayuki Ioki (伊尾木 将之) is a
 - Contributor of many articles to NikkeiBP for 12+ years.
 - Student of Physics.
 
+## Projects
+- Edo Recipes ([link](https://cookpad.com/kitchen/14604664))
+
 ## Career
 - Cookpad Inc. (2014 - Present)
   - Belongs to Research and Development
   - Software engineer (Ruby, Python, Golang ...)
   - Product owner of `Cooking School`
+- Officer of the Japan Society of Home Economics Division of Food Culture (2015 - Present) ([link](http://www.js-foodculture.org/))
 - IBM Japan (2003 - 2014)
   - SE, Project manager
 
