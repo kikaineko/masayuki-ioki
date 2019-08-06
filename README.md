@@ -53,7 +53,7 @@ Masayuki Ioki (伊尾木 将之) is a
 - 探検バクモン (TV, NHK)
   - Food Culture and Smart Kitchen.
 
-### Invited Talk (Selected)
+### Invited Talks (Selected)
 - レシピを解析する！Machine Readable Recipe（MRR: 機械可読なレシピ）の開発 @ Cookpad TechConf 2019. ([2019/02/27](https://techconf.cookpad.com/2019/), [ログミー](https://logmi.jp/tech/articles/321152))
 - 「料理とテクノロジー」 @ 渡邊恵太研究室 ([2018/03/15](http://keita-lab.jp/exhibition/), [article](https://pc.watch.impress.co.jp/docs/column/kyokai/1112518.html))
 - 「クックパッド 江戸ご飯 ～ゆるふわ江戸時代の料理とうつわ～」@ テーブルウェアフェスティバル2018 ([2018/02](https://www.tokyo-dome.co.jp/tableware/))
