@@ -53,7 +53,7 @@ Masayuki Ioki (伊尾木 将之) is a
 - 探検バクモン (TV, NHK)
   - Food Culture and Smart Kitchen.
 
-### Invited Talks (Selected)
+### Presentations (Selected)
 - レシピを解析する！Machine Readable Recipe（MRR: 機械可読なレシピ）の開発 @ Cookpad TechConf 2019. ([2019/02/27](https://techconf.cookpad.com/2019/), [ログミー](https://logmi.jp/tech/articles/321152))
 - 「料理とテクノロジー」 @ 渡邊恵太研究室 ([2018/03/15](http://keita-lab.jp/exhibition/), [article](https://pc.watch.impress.co.jp/docs/column/kyokai/1112518.html))
 - 「クックパッド 江戸ご飯 ～ゆるふわ江戸時代の料理とうつわ～」@ テーブルウェアフェスティバル2018 ([2018/02](https://www.tokyo-dome.co.jp/tableware/))
@@ -61,6 +61,8 @@ Masayuki Ioki (伊尾木 将之) is a
 - 「“江戸時代の食をつうじた遊び心・注目の江戸ごはんレシピ” の可能性」　@ 小金井市商工会 ([2017/10/23](https://koganei-s.or.jp/edode-atarashiiwotsukuru2017/))
 - Panelist (鎌倉時代の食) @ 千葉氏フォーラム ([2017/06/04](http://chiba-summit.com/history/history02))
 - 「なぜ大量のレシピが集まってくれたのか」@ デジタルアーカイブ in 岐阜 ([2017/02/11](http://current.ndl.go.jp/node/33277))
+
+### Invited lectures
 - 「なぜクックパッドがデータのオープン化を行うのか？」 @ パターン認識・メディア理解研究会（PRMU）([2016/10/21](https://www.ieice.org/ken/program/index.php?tgs_regid=d6080c927735a8b30dd2d746c6199c839429853883e4e980c6925e15a80e2f09&tgid=IEICE-PRMU&lang=))
 - Multimedia on Cooking and Eating Activities, Human Communication Group, IEICE (食メディア研究会) ([2016/09/26](http://www.ccm.media.kyoto-u.ac.jp/CEA/))
 
