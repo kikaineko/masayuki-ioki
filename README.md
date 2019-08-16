@@ -18,6 +18,7 @@ Masayuki Ioki (伊尾木 将之) is a
 ## Career
 - Cookpad Inc. (2014 - Present)
   - Belongs to Research and Development
+  - Researcher of Food Culture.
   - Software engineer (Ruby, Python, Golang ...)
   - Product owner of `the Cooking School Service`
 - Officer of the Japan Society of Home Economics Division of Food Culture (2015 - Present) ([link](http://www.js-foodculture.org/))
