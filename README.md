@@ -23,6 +23,10 @@ Masayuki Ioki (伊尾木 将之) is a
 - Officer of the Japan Society of Home Economics Division of Food Culture (2015 - Present) ([link](http://www.js-foodculture.org/))
 - IBM Japan (2003 - 2014)
   - SE, Project manager
+- [USJ (Show team)](https://www.usj.co.jp/) (2001? Summer)
+  - Stage director
+- [Takarazuka Familyland (Show team)](https://ja.wikipedia.org/wiki/%E5%AE%9D%E5%A1%9A%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89) (1998? - 2002?)
+  - Lighting Staff, Character, M.C.
 
 ## Education
 - Tokyo Institute of Technology (2009 - 2014)
