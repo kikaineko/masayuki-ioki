@@ -14,13 +14,14 @@ Masayuki Ioki (伊尾木 将之) is a
 
 ## Projects
 - Edo Recipes ([link](https://cookpad.com/kitchen/14604664))
+- Modern Recipes ([link](https://cookpad.com/kitchen/33633012))
 
 ## Career
 - Cookpad Inc. (2013 - Present)
   - Belongs to Research and Development
   - Researcher of Food Culture.
   - Software engineer (Ruby, Python, Golang ...)
-  - Product owner of `the Cooking School Service`
+  - Product owner of `the Cooking School Service` (2017)
 - Officer of the Japan Society of Home Economics Division of Food Culture (2015 - Present) ([link](http://www.js-foodculture.org/))
 - IBM Japan (2003 - 2014)
   - SE, Project manager
@@ -40,6 +41,7 @@ Masayuki Ioki (伊尾木 将之) is a
 
 ## Publications
 ### Papers (Selected)
+- Reactions to the New Year's dishes in Recipe Search Data (レシピ検索データから見える ハレからケへの移行期 : 正月からの反動を中心に) ([2019](https://ci.nii.ac.jp/naid/40022167507))
 - Survey on New Year's Occasion and Cuisine Performed at the Beginning and End of the Year (正月行事と食 : 年末年始の実態調査) ([2018](https://ci.nii.ac.jp/naid/40021785425))
 - Meat Dishes for New Year's Day from Recipe Search Data (レシピ検索データに現れる牛豚を使った新正月料理) ([2016](https://ci.nii.ac.jp/naid/40021026570))
 - An Aspect-oriented Language for Optimization over Two Method Calls (2つのメソッド呼び出しに関わる最適化を可能にするアスペクト指向言語) ([2011](https://ci.nii.ac.jp/naid/110008616677))
