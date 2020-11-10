@@ -31,6 +31,8 @@ Masayuki Ioki (伊尾木 将之) is a
   - Lighting Staff, Character, M.C.
 
 ## Education
+- Keio Univ. (2020 - )
+  - Course of History
 - Tokyo Institute of Technology (2009 - 2014)
   - Dept. of Mathematical and Computing Sciences
   - Finished Ph.D. program without a degree ;-(
