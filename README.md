@@ -49,6 +49,7 @@ Masayuki Ioki (伊尾木 将之) is a
 - An Aspect-oriented Language for Optimization over Two Method Calls (2つのメソッド呼び出しに関わる最適化を可能にするアスペクト指向言語) ([2011](https://ci.nii.ac.jp/naid/110008616677))
 
 ### Books & Articles, Interviews (Selected)
+- コロナ禍と東日本大震災におけるレシピ検索の動向 ([2020/12](https://www.jstage.jst.go.jp/article/jhej/71/12/71_800/_article/-char/ja))
 - クックパッドデータから読み解く食卓の科学 ([2017/02](https://www.amazon.co.jp/dp/4785505206/))
 - 実践 Ruby on Rails Webプログラミング入門 ([2006/09](https://www.amazon.co.jp/dp/4881665413))
 - 日経ソフトウエア ([link](https://www.nikkeibpm.co.jp/item/nsw/756/saishin.html))
