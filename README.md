@@ -63,6 +63,7 @@ Masayuki Ioki (伊尾木 将之) is a
 - ビッグデータが示した、東西の味付け比較 ([2017/04](https://project.nikkeibp.co.jp/campanella/atcl/15/030900037/031700003/))
 - 探検バクモン (TV, NHK)
   - Food Culture and Smart Kitchen.
+- [My Fresh Life(TV Tokyo): 新たな学びと"江戸レシピ"に心躍る日々](https://www.tv-tokyo.co.jp/my_fresh_life/backnumber/index.html?trgt=20201213)
 
 ### Presentations (Selected)
 - レシピを解析する！Machine Readable Recipe（MRR: 機械可読なレシピ）の開発 @ Cookpad TechConf 2019. ([2019/02/27](https://techconf.cookpad.com/2019/), [ログミー](https://logmi.jp/tech/articles/321152))
