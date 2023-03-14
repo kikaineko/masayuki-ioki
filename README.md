@@ -15,6 +15,8 @@ Masayuki Ioki (伊尾木 将之) is a
 ## Projects
 - Edo Recipes ([link](https://cookpad.com/kitchen/14604664))
 - Modern Recipes ([link](https://cookpad.com/kitchen/33633012))
+- Living with only Edo dishes (2021/9 - )
+  - No meat, No breads, No cakes, No coffee, No beer ...
 
 ## Career
 - Cookpad Inc. (2013 - Present)
