@@ -8,8 +8,8 @@
 Masayuki Ioki (伊尾木 将之) is a
 - Supporter of [Kawasaki Frontale](https://www.frontale.co.jp/).
 - Researcher of Food Culture.
-- Software engineer for 16+ years.
-- Contributor of many articles to NikkeiBP for 12+ years.
+- Software engineer for 20+ years.
+- Contributor of many articles to NikkeiBP for 20 years.
 - Student of Physics.
 
 ## Projects
@@ -19,7 +19,9 @@ Masayuki Ioki (伊尾木 将之) is a
   - No meat, No breads, No cakes, No coffee, No beer ...
 
 ## Career
-- Cookpad Inc. (2013 - Present)
+- Studyplus Inc. (2024 - )
+  - Tech Lead
+- Cookpad Inc. (2013 - 2024)
   - Belongs to Research and Development
   - Researcher of Food Culture.
   - Software engineer (Ruby, Python, Golang ...)
@@ -68,6 +70,7 @@ Masayuki Ioki (伊尾木 将之) is a
 - My Fresh Life(TV Tokyo): 新たな学びと"江戸レシピ"に心躍る日々 ([2020/12/13](https://www.tv-tokyo.co.jp/my_fresh_life/backnumber/index.html?trgt=20201213))
 
 ### Presentations (Selected)
+- コンテキストの使いすてをやめる -ビジネス駆動開発とmiko- [2026/06/12](https://speakerdeck.com/ioki/kontekisutonoshi-ishe-tewoyameru-bizinesururuqu-dong-kai-fa-to-miko) 
 - レシピを解析する！Machine Readable Recipe（MRR: 機械可読なレシピ）の開発 @ Cookpad TechConf 2019. ([2019/02/27](https://techconf.cookpad.com/2019/), [ログミー](https://logmi.jp/tech/articles/321152))
 - 「料理とテクノロジー」 @ 渡邊恵太研究室 ([2018/03/15](http://keita-lab.jp/exhibition/), [article](https://pc.watch.impress.co.jp/docs/column/kyokai/1112518.html))
 - 「クックパッド 江戸ご飯 ～ゆるふわ江戸時代の料理とうつわ～」@ テーブルウェアフェスティバル2018 ([2018/02](https://www.tokyo-dome.co.jp/tableware/))
