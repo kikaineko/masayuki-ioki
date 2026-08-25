@@ -21,6 +21,8 @@ Masayuki Ioki (伊尾木 将之) is a
 ## Career
 - Studyplus Inc. (2024 - )
   - Tech Lead
+  - Led the adoption of AI-driven development and improved engineering productivity by approximately 200%.
+  - Developed and currently maintain `miko`, a framework for AI-driven development.
 - Cookpad Inc. (2013 - 2024)
   - Belongs to Research and Development
   - Researcher of Food Culture.
