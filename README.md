@@ -17,13 +17,13 @@ Masayuki Ioki (伊尾木 将之) is a
 - Modern Recipes ([link](https://cookpad.com/kitchen/33633012))
 - Living with only Edo dishes (2021/9 - )
   - No meat, No breads, No cakes, No coffee, No beer ...
+- Developed and currently maintain [`miko`, a framework for AI-driven development](https://github.com/studyplus/miko).
+  - https://github.com/studyplus/miko
 
 ## Career
 - Studyplus Inc. (2024 - )
   - Tech Lead
-  - Led the adoption of AI-driven development and improved engineering productivity by approximately 200%.
-  - Developed and currently maintain [`miko`, a framework for AI-driven development](https://github.com/studyplus/miko).
-    - https://github.com/studyplus/miko
+  - Led the adoption of AI-driven development and improved engineering productivity by approximately 200% with miko.
 - Cookpad Inc. (2013 - 2024)
   - Belongs to Research and Development
   - Researcher of Food Culture.
